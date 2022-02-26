@@ -1,0 +1,6 @@
+fun main() {
+
+    NatalidadeMortalidade()
+    pagamento()
+
+}
